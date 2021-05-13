@@ -30,19 +30,7 @@ repositories:
     repository: dablchess
 
   - type: github-release
-    owner: digital-asset
-    repository: dablchat
-
-  - type: github-release
-    owner: OpenSaaSame
-    repository: board
-
-  - type: github-release
-    owner: OpenSaaSame
-    repository: feed
-
-  - type: github-release
-    owner: digital-asset
+    owner: alexmatson-da
     repository: da-marketplace
 
   - type: github-release
